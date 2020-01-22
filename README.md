@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## Setup env
+```
+cp .env.example .env
+```
 
 ### Compiles and hot-reloads for development
 ```
