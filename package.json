@@ -14,7 +14,7 @@
     "core-js": "^2.6.11",
     "exif-js": "^2.3.0",
     "js-cookie": "^2.2.1",
-    "luxon": "^1.21.3",
+    "luxon": "^1.28.1",
     "moment": "^2.24.0",
     "serialize-javascript": "^3.1.0",
     "vue": "^2.6.11",
